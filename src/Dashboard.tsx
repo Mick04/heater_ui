@@ -299,7 +299,7 @@ export default function Dashboard() {
           Target Temperature:
           <span
             style={{
-              color: heaterState === "ON" ? "yellow" : "blue",
+              color: heaterState === "ON" ? "yellow" : "white",
               marginLeft: "10px",
               fontSize: "15px",
             }}
